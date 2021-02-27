@@ -1,1 +1,4 @@
 # Komputas_multimedia
+NAMA : MOH RIZA ZULFAHNUR
+KELAS : TI-3D
+NIM : 1841720005
